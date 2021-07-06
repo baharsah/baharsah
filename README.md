@@ -1,9 +1,9 @@
 ### Hi there 👋
 
 
-**baharsah/baharsah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my github profile. but unfortunatelly, this profile is not completed correctly
 
-Here are some ideas to get you started:
+I hope this profile can be filled by some of project.
 
 <!--- 🔭 I’m currently working on ...-->
 - 🌱 I’m currently learning Javascript and Golang
