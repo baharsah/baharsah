@@ -8,6 +8,7 @@ I hope this profile can be filled by some of project.
 <!--- 🔭 I’m currently working on ...-->
 - 🌱 I’m currently learning Javascript and Golang
 - Developing The `README.md` File
+- Prepare A Test
 
 ## Ongoing Projects
  - [Jaga Lindungi](https://github.com/baharsah/jagalindungi)
