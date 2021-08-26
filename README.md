@@ -15,6 +15,11 @@ I hope this profile can be filled by some of project.
  - [Jaga Lindungi](https://github.com/baharsah/jagalindungi)
  - (PRIVATE PROJECT) Stage! Showtime!
 
+## Events
+
+This Month, I was have a big Campus Project and I can't handle Existing Project in github.
+So, i Take long hiatus for this.
+
 
 
 
