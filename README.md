@@ -18,7 +18,8 @@ I hope this profile can be filled by some of project.
 ## Events
 
 This Month, I was have a big Campus Project and I can't handle Existing Project in github.
-So, i Take long hiatus for this.
+
+So, I Take long hiatus for this.
 
 
 
