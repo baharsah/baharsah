@@ -1,9 +1,8 @@
 ### Hi there 👋
 
 
-Welcome to my github profile. but unfortunatelly, this profile is not completed correctly
-
-I hope this profile can be filled by some of project.
+My name is **Baharsah** And my Speciality At Infrastructure developing.
+But, I Can Work in Code-Relevant working Environment.
 
 <!--- 🔭 I’m currently working on ...-->
 - 🌱 I’m currently learning Javascript and Golang
@@ -17,9 +16,9 @@ I hope this profile can be filled by some of project.
 
 ## Events
 
-This Month, I was have a big Campus Project and I can't handle Existing Project in github.
+> This Month, I was have a big Campus Project and I can't handle Existing Project in Github for About 3 Months after this.
 
-So, I Take long hiatus for this.
+> So, I Take long hiatus for this.
 
 
 
