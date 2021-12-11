@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![I](https://avatars.githubusercontent.com/u/69349170?v=4)
+
 
 My name is **Baharsah** And my Speciality At Infrastructure developing.
 But, I Can Work in Code-Relevant working Environment. 
