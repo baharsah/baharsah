@@ -3,7 +3,7 @@
 ![I](https://avatars.githubusercontent.com/u/69349170?v=4)
 
 
-My name is **Baharsah** And my Speciality At Infrastructure developing.
+My name is **Baharsah** And My speciality at Infrastructure Developing.
 But, I Can Work in Code-Relevant working Environment. 
 
 Work At [onjob.id](https://onjob.id)
