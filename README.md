@@ -8,17 +8,11 @@ Work At [onjob.id](https://onjob.id)
 
 ![Codewars Badge](https://www.codewars.com/users/baharsah/badges/large)
 
-## Ongoing Projects
+## Lang Stats
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=baharsah&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
+## Stats
 
-
-## Alpha Test
-
-
-
-
-
-
-
+![baharsah's GitHub stats](https://github-readme-stats.vercel.app/api?username=baharsah&show_icons=true&theme=radical&show_icons=true&count_private=true)
 
