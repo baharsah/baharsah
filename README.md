@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![I](https://avatars.githubusercontent.com/u/69349170?v=4)
+![I](https://github.com/baharsah/baharsah/blob/main/defe.png?raw=true)
 
 
 My name is **Baharsah** And My speciality at Infrastructure Developing.
