@@ -3,9 +3,7 @@
 ![I](https://github.com/baharsah/baharsah/blob/main/defe.png?raw=true)
 
 
-My name is **Baharsah** And My speciality at Infrastructure Developing.
-But, I Can Work in Code-Relevant working Environment. 
-
+My name is **Baharsah** And I Am Backend Developer.
 Work At [onjob.id](https://onjob.id)
 
 ![Codewars Badge](https://www.codewars.com/users/baharsah/badges/large)
