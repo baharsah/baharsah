@@ -14,5 +14,11 @@ Work At [onjob.id](https://onjob.id)
 
 ## Stats
 
-![baharsah's GitHub stats](https://github-readme-stats.vercel.app/api?username=baharsah&show_icons=true&theme=radical&show_icons=true&count_private=true)
+![baharsah's GitHub stats](https://github-readme-stats.vercel.app/api?username=baharsah&show_icons=true&theme=radical&show_icons=true&count_private=false)
 
+
+## Projects
+
+- MyStage
+- StageApp
+- Project Constellar
