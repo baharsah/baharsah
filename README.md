@@ -16,7 +16,7 @@ My name is **Baharsah** And I Am Backend Developer.
 
 ## Projects
 
-- Warts Lantern
+- Lantern
 - MyStage
 - StageApp
 - Project Constellar
