@@ -4,9 +4,6 @@
 
 
 My name is **Baharsah** And I Am Backend Developer.
-Work At [onjob.id](https://onjob.id)
-
-![Codewars Badge](https://www.codewars.com/users/baharsah/badges/large)
 
 ## Lang Stats
 
@@ -19,6 +16,7 @@ Work At [onjob.id](https://onjob.id)
 
 ## Projects
 
+- Warts Lantern
 - MyStage
 - StageApp
 - Project Constellar
