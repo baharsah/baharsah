@@ -16,4 +16,4 @@ My name is **Baharsah** And I Am Backend Developer.
 ## Projects & Sources
 
 - [TryCast](https://github.com/baharsah/trycast)
-- OnJob (Internal
+- OnJob (Internal)
