@@ -17,3 +17,6 @@ My name is **Baharsah** And I Am Backend Developer.
 
 - [TryCast](https://github.com/baharsah/trycast)
 - OnJob (Internal)
+- Stage!
+- Activate
+- TryScale
