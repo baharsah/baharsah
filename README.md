@@ -15,8 +15,16 @@ My name is **Baharsah** And I Am Backend Developer.
 
 ## Projects & Sources
 
-- [TryCast](https://github.com/baharsah/trycast)
-- OnJob (Internal)
-- Stage!
-- Activate
-- TryScale
+- By Baharsah
+  - [TryCast](https://github.com/baharsah/trycast)
+  - TryScale
+- By Stage!
+  - Activate
+- External 
+  - OnJob (Internal)
+- By Project Constellar
+  - X
+- By Lutfikahana Foundation
+  - Tamaya
+
+Filter By Bussiness Approach
