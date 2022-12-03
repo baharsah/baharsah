@@ -6,7 +6,7 @@ My name is **Baharsah** And I Am Backend Developer.
 
 ## Lang Stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=baharsah&layout=compact)](https://github.com/baharsah)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=baharsah&layout=compact&count_private=true)](https://github.com/baharsah)
 
 ## Stats
 
