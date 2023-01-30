@@ -4,6 +4,11 @@
 
 My name is **Baharsah** And I Am Backend Developer.
 
+## Lang
+
+![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
+![Go](https://img.shields.io/badge/-Go-000?&logo=Go)
+
 ## Lang Stats
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=baharsah&layout=compact&count_private=true)](https://github.com/baharsah)
