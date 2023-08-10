@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![I]([https://github.com/baharsah/baharsah/blob/main/drawing3.png?raw=true](https://osekai.net/profiles/img/banner.svg?id=10135297))
+![](https://osekai.net/profiles/img/banner.svg?id=10135297)
 
 My name is **Baharsah** And I Am Backend Developer.
 
