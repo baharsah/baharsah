@@ -1,13 +1,14 @@
 ### Hi there 👋
 
-![](https://osekai.net/profiles/img/banner.svg?id=10135297)
+#About
 
-My name is **Baharsah** And I Am Backend Developer.
+My name is **Baharsah** And I Am Backend Developer Specially using PHP For creating Backend service. but, I also capable to use another like Golang and Javascript As Backend Service.
 
 ## Lang
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
 ![Go](https://img.shields.io/badge/-Go-000?&logo=Go)
+![Go](https://img.shields.io/badge/-PHP-000?&logo=PHP)
 
 ## Lang Stats
 
@@ -16,12 +17,3 @@ My name is **Baharsah** And I Am Backend Developer.
 ## Stats
 
 ![baharsah's GitHub stats](https://github-readme-stats.vercel.app/api?username=baharsah&show_icons=true&theme=radical&show_icons=true&count_private=true)
-
-
-## Projects & Sources
-
-- [TryCast](https://github.com/baharsah/trycast)
-- OnJob (Internal)
-- Stage!
-- Activate
-- TryScale
